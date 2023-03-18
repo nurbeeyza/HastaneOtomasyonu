@@ -1,0 +1,120 @@
+USE [KlinikDb]
+
+/****** Object:  Table [dbo].[bolumtbl]    Script Date: 19.01.2023 18:32:51 ******/
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [dbo].[bolumtbl](
+	[bolumid] [tinyint] IDENTITY(1,1) NOT NULL,
+	[bolumadi] [nvarchar](50) NOT NULL
+) ON [PRIMARY]
+INSERT INTO bolumtbl VALUES('Dahiliye');
+INSERT INTO bolumtbl VALUES('KBB');
+INSERT INTO bolumtbl VALUES('Genel Cerrahi');
+INSERT INTO bolumtbl VALUES('Gastroentroloji');
+INSERT INTO bolumtbl VALUES('Göğüs Hastalıkları ve Alerji');
+INSERT INTO bolumtbl VALUES('Kardiyoloji');
+INSERT INTO bolumtbl VALUES('Nöroloji');
+INSERT INTO bolumtbl VALUES('Nefroloji');
+INSERT INTO bolumtbl VALUES('Psikoloji');
+INSERT INTO bolumtbl VALUES('Psikiyatri');
+/****** Object:  Table [dbo].[hastatbl]    Script Date: 19.01.2023 18:32:51 ******/
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [dbo].[hastatbl](
+	[hastano] [bigint] NOT NULL,
+	[adi] [nvarchar](30) NOT NULL,
+	[soyadi] [nvarchar](30) NULL,
+	[yas] [tinyint] NULL,
+	[cinsiyet] [varchar](20) NULL,
+	[uyruk] [nvarchar](20) NOT NULL,
+	[adres] [nvarchar](50) NULL,
+	[telno] [varchar](20) NULL,
+	[ceptelno] [varchar](20) NULL,
+	[email] [varchar](50) NOT NULL,
+	[hastaliklar] [text] NOT NULL,
+	[kulilaclar] [text] NULL,
+ CONSTRAINT [PK_hastatbl] PRIMARY KEY CLUSTERED 
+(
+	[hastano] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+/****** Object:  Table [dbo].[personel]    Script Date: 19.01.2023 18:32:51 ******/
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [dbo].[personel](
+	[perno] [int] IDENTITY(20000,10) NOT NULL,
+	[unvanno] [tinyint] NOT NULL,
+	[bolumno] [tinyint] NOT NULL,
+	[adsoyad] [nvarchar](50) NULL,
+	[sifre] [nvarchar](50) NULL,
+	[email] [varchar](50) NULL,
+	[telno] [varchar](20) NOT NULL
+) ON [PRIMARY]
+
+/****** Object:  Table [dbo].[randevutbl]    Script Date: 19.01.2023 18:32:51 ******/
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [dbo].[randevutbl](
+	[randevuno] [bigint] IDENTITY(1,1) NOT NULL,
+	[hastano] [bigint] NOT NULL,
+	[doktorno] [int] NOT NULL,
+	[randevutarih] [nvarchar](10) NOT NULL,
+	[randevusaati] [nvarchar](5) NOT NULL
+) ON [PRIMARY]
+
+/****** Object:  Table [dbo].[recetetbl]    Script Date: 19.01.2023 18:32:51 ******/
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [dbo].[recetetbl](
+	[receteid] [bigint] IDENTITY(1,1) NOT NULL,
+	[receteno] [int] NULL,
+	[hastano] [bigint] NOT NULL,
+	[recete] [text] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+/****** Object:  Table [dbo].[tahliltbl]    Script Date: 19.01.2023 18:32:51 ******/
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [dbo].[tahliltbl](
+	[tahlilno] [int] IDENTITY(100000,1) NOT NULL,
+	[hastano] [bigint] NOT NULL,
+	[tahlil] [text] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+/****** Object:  Table [dbo].[tedavitbl]    Script Date: 19.01.2023 18:32:51 ******/
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [dbo].[tedavitbl](
+	[tedaviid] [int] IDENTITY(1,1) NOT NULL,
+	[hastano] [bigint] NOT NULL,
+	[tedavi] [text] NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+/****** Object:  Table [dbo].[unvantbl]    Script Date: 19.01.2023 18:32:51 ******/
+SET ANSI_NULLS ON
+
+SET QUOTED_IDENTIFIER ON
+
+CREATE TABLE [dbo].[unvantbl](
+	[unvanid] [tinyint] IDENTITY(1,1) NOT NULL,
+	[unvanadi] [nvarchar](50) NOT NULL
+) ON [PRIMARY]
+INSERT INTO unvantbl VALUES('Skr.');
+INSERT INTO unvantbl VALUES('Dr.');
+INSERT INTO unvantbl VALUES('Prof. Dr.');
+INSERT INTO unvantbl VALUES('Uzm. Dr.');

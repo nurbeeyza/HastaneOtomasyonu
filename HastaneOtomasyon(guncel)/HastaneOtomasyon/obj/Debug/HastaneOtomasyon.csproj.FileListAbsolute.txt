@@ -1,0 +1,108 @@
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.TestFrm.resources
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.LoginFrm.resources
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.MainFrm.resources
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.TahlilSonuc.resources
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Select.HtmlToPdf.dll
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Select.HtmlToPdf.xml
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Select.Html.dep
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.manifest
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.application
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe.manifest
+C:\Users\HAKKI88\Desktop\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.application
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.manifest
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.application
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Select.HtmlToPdf.dll
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Select.HtmlToPdf.xml
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\Select.Html.dep
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.TestFrm.resources
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.LoginFrm.resources
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.MainFrm.resources
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.TahlilSonuc.resources
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe.manifest
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.application
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\HAKKI88\Desktop\C# Projeleri\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\template.html
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\template.html
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.manifest
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.application
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\Select.HtmlToPdf.dll
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\Select.HtmlToPdf.xml
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\Select.Html.dep
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.TestFrm.resources
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.LoginFrm.resources
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.MainFrm.resources
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.TahlilSonuc.resources
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe.manifest
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.application
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.CopyComplete
+C:\Users\Beyza\Desktop\HastaneOtomasyon(guncel)\HastaneOtomasyon\bin\Debug\tblgen.gen

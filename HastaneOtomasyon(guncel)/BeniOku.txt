@@ -1,0 +1,6 @@
+Server Tarafı:
+1-Öncelikle mssql serverınızda KlinikDb adında bir database oluşturun. Sonra tablo.sql
+dosyasına tıklayın ve tablo oluşsun.
+Program Tarafı:
+1-Programı derleyin açın ilk açılışta size mssql server adını soracak doğru girdiğinizden emin olduktan sonra
+program mssql server adını kaydeder ve böylece her açılışta girmek durumunda kalmıyorsunuz.

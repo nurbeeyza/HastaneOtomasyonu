@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head> 
+<body>
+    <h1 style="color:rgb(0, 76, 255)">Hastane Otomasyon Yazılımı</h1>
+<div style="position:relative;left:15%;width:50%">
+   
+<h2 style="color:rgb(0, 76, 255);border-bottom:1px solid black">Hasta Bilgileri</h2>
+<p><b>Hasta TCNo: </b>{0}</p>
+<p><b>Hasta Adı/Soyadı: </b>{1}</p>
+<p><b>Yaşı: </b>{2}</p>
+<p><b>Cinsiyeti: </b>{3}</p>
+<h3 style="color:rgb(0, 76, 255);border-bottom:1px solid black ">Hasta Tedavi Bilgileri</h3>
+<p>{4}</p>
+<h3 style="color:rgb(0, 76, 255);border-bottom:1px solid black">Hasta Reçete Bilgileri</h3>
+<p>{5}</p>
+</div>
+
+</body>
+</html>
